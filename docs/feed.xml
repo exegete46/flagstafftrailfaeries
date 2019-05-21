@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flagstaff Trail Faeries</title>
+    <description>The Flagstaff Trail Faeries is a group of dedicated trail users, willing to put their time where their mouth is, and build the trails they use.
+</description>
+    <link>https://exegete46.github.io/flagstafftrailfaeries/</link>
+    <atom:link href="https://exegete46.github.io/flagstafftrailfaeries/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 May 2019 01:52:06 +0000</pubDate>
+    <lastBuildDate>Tue, 21 May 2019 01:52:06 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+  </channel>
+</rss>
